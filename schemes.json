@@ -8,6 +8,31 @@
     "link": "https://pmkisan.gov.in/"
   },
   {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "keywords": ["income support", "small farmers", "direct benefit", "financial aid", "PM-KISAN"],
+    "eligibility": "All landholding farmer families with cultivable land, subject to certain exclusion criteria.",
+    "documents": "Aadhaar card, land ownership documents, bank account details.",
+    "how_to_apply": "Register online at the PM-KISAN portal or through local revenue officials or CSCs.",
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Kisan Credit Card (KCC) Scheme",
+    "keywords": ["credit", "loan", "crop finance", "short-term loan", "KCC"],
+    "eligibility": "All farmers including tenant farmers, sharecroppers, and self-help groups involved in agriculture and allied activities.",
+    "documents": "Identity proof, land documents, bank account details, passport-size photo.",
+    "how_to_apply": "Apply through banks or cooperative societies; forms also available online.",
+    "link": "https://www.pmkisan.gov.in/Documents/KCC.pdf"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "keywords": ["crop insurance", "natural calamities", "risk coverage", "premium subsidy", "PMFBY"],
+    "eligibility": "All farmers growing notified crops in notified areas, including loanee and non-loanee farmers.",
+    "documents": "Aadhaar, land records, sowing certificate, bank account details.",
+    "how_to_apply": "Apply through banks, CSCs, or the PMFBY portal before the cut-off date for each season.",
+    "link": "https://pmfby.gov.in"
+  },
+
+  {
     "name": "Widow Pension Scheme",
     "keywords": ["widow", "vidhwa", "husband death"],
     "eligibility": "Women who are widows and below the poverty line.",
@@ -49,12 +74,37 @@
   },
   {
     "name": "National Scholarship Portal",
-    "keywords": ["scholarship", "student", "fee", "school", "college"],
+    "keywords": ["scholarship", "student", "fee", "school", "college","student from sc/st"],
     "eligibility": "Students from SC/ST/OBC/Minority/EWS backgrounds.",
     "documents": "Income certificate, caste certificate, Aadhaar, education records.",
     "how_to_apply": "Apply online through the NSP website.",
     "link": "https://scholarships.gov.in/"
   },
+  {
+    "name": "Pragati Scholarship Scheme",
+    "keywords": ["scholarship", "girl students", "technical education", "engineering", "diploma"],
+    "eligibility": "Girl students admitted to AICTE-approved institutions with family income less than ₹8 lakh/annum.",
+    "documents": "Income certificate, Aadhaar, admission proof, bank details, academic records.",
+    "how_to_apply": "Apply online through the AICTE scholarship portal.",
+    "link": "https://www.aicte-india.org/schemes/students-development-schemes"
+  },
+  {
+    "name": "Vidya Lakshmi Education Loan Scheme",
+    "keywords": ["education loan", "higher studies", "student finance", "bank loan", "college fees"],
+    "eligibility": "Indian students pursuing higher education in India or abroad; must be registered on the portal.",
+    "documents": "Loan application form, income proof, Aadhaar, admission letter, academic records.",
+    "how_to_apply": "Apply through the Vidya Lakshmi portal for multiple bank loan options.",
+    "link": "https://www.vidyalakshmi.co.in"
+  },
+  {
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "keywords": ["merit", "scholarship", "economically weaker section", "school education", "class 9-12"],
+    "eligibility": "Students with annual family income below ₹3.5 lakh and at least 55% marks in Class 8.",
+    "documents": "Income certificate, Aadhaar, academic records, NMMSS exam certificate.",
+    "how_to_apply": "Apply online through the National Scholarship Portal (NSP).",
+    "link": "https://scholarships.gov.in"
+  },
+
   {
     "name": "PM Kaushal Vikas Yojana (PMKVY)",
     "keywords": ["skills", "training", "job", "youth", "skill india"],
@@ -62,5 +112,170 @@
     "documents": "Aadhaar, identity proof, education qualification.",
     "how_to_apply": "Register on Skill India portal and join nearest center.",
     "link": "https://www.pmkvyofficial.org/"
+  },
+  
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "keywords": ["loan", "small business", "entrepreneur", "micro enterprise", "Mudra"],
+    "eligibility": "Non-corporate small business segments including proprietors, artisans, shopkeepers, and service sector workers.",
+    "documents": "Aadhaar, business proof, bank account details, application form.",
+    "how_to_apply": "Apply through any bank, NBFC, or online via the Mudra portal.",
+    "link": "https://www.mudra.org.in"
+  },
+  {
+    "name": "PM Vishwakarma Yojana",
+    "keywords": ["artisan", "craftsman", "traditional skills", "toolkit", "training"],
+    "eligibility": "Traditional artisans and craftspeople from 18 trades such as carpenter, blacksmith, potter, etc.",
+    "documents": "Aadhaar, caste certificate (if applicable), skill proof, bank details.",
+    "how_to_apply": "Apply online via the PM Vishwakarma portal or through CSCs.",
+    "link": "https://pmvishwakarma.gov.in"
+  },
+  {
+    "name": "PM eVIDYA",
+    "keywords": ["education", "digital learning", "online classes", "school", "Diksha"],
+    "eligibility": "Students and teachers across India seeking digital education resources.",
+    "documents": "No specific documents required for access; internet-enabled device recommended.",
+    "how_to_apply": "Access through the DIKSHA portal, Swayam platform, or PM eVIDYA TV channels.",
+    "link": "https://www.diksha.gov.in"
+  },
+
+  {
+    "name": "e-Shram Portal",
+    "keywords": ["unorganised workers", "registration", "social security", "e-Shram", "labour"],
+    "eligibility": "Unorganised sector workers aged 16–59 years, including gig and platform workers.",
+    "documents": "Aadhaar, mobile number linked with Aadhaar, bank account details.",
+    "how_to_apply": "Register online at the e-Shram portal or visit a Common Service Centre (CSC).",
+    "link": "https://eshram.gov.in"
+  },
+  {
+    "name": "Employees' State Insurance Scheme (ESIC)",
+    "keywords": ["health insurance", "workers", "medical care", "ESIC", "social security"],
+    "eligibility": "Employees earning ₹21,000/month or less in establishments registered under the ESI Act.",
+    "documents": "Aadhaar, employer registration, salary proof, bank details.",
+    "how_to_apply": "Employers register eligible workers through the ESIC portal.",
+    "link": "https://www.esic.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Shram Yogi Maandhan (PM-SYM)",
+    "keywords": ["pension", "unorganised workers", "retirement", "social security", "PM-SYM"],
+    "eligibility": "Unorganised workers aged 18–40 years with monthly income up to ₹15,000.",
+    "documents": "Aadhaar, savings bank account, mobile number.",
+    "how_to_apply": "Enroll through CSCs or online via the Maandhan portal.",
+    "link": "https://maandhan.in"
+  },
+  
+  {
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "keywords": ["health insurance", "hospitalization", "cashless treatment", "PM-JAY", "Ayushman Bharat"],
+    "eligibility": "Families identified under the SECC 2011 data and those in the occupational category of urban workers.",
+    "documents": "Aadhaar, ration card, income certificate (if applicable).",
+    "how_to_apply": "Check eligibility and apply through the Ayushman Bharat portal or visit an empaneled hospital.",
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "name": "National Health Mission (NHM)",
+    "keywords": ["public health", "maternal care", "child health", "rural healthcare", "NHM"],
+    "eligibility": "All Indian citizens, with a focus on rural and underserved populations.",
+    "documents": "No specific documents required for general services; ID proof for specific programs.",
+    "how_to_apply": "Access services through government health centers and mobile health units.",
+    "link": "https://nhm.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "keywords": ["maternity benefit", "pregnant women", "nutrition", "PMMVY", "mother care"],
+    "eligibility": "Pregnant and lactating women for the first two live births, including unmarried adolescents aged 18+ (as of 2025).",
+    "documents": "Aadhaar, pregnancy proof, bank account details.",
+    "how_to_apply": "Apply through Anganwadi centers or online via the PMMVY portal.",
+    "link": "https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana"
+  },
+  
+  {
+    "name": "Pradhan Mantri Awas Yojana – Gramin (PMAY-G)",
+    "keywords": ["rural housing", "pucca house", "BPL families", "PMAY-G", "shelter"],
+    "eligibility": "Rural households without a pucca house, identified through SECC 2011 data.",
+    "documents": "Aadhaar, job card (MGNREGA), bank account details, income certificate.",
+    "how_to_apply": "Apply through the Gram Panchayat or online via the PMAY-G portal.",
+    "link": "https://pmayg.nic.in"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "keywords": ["urban housing", "EWS", "LIG", "MIG", "affordable housing", "PMAY-U"],
+    "eligibility": "Urban poor including EWS, LIG, and MIG households without a pucca house.",
+    "documents": "Aadhaar, income proof, property documents, bank account details.",
+    "how_to_apply": "Apply online via the PMAY-U portal or through urban local bodies.",
+    "link": "https://pmaymis.gov.in"
+  },
+  {
+    "name": "Basava Vasati Yojana (Karnataka)",
+    "keywords": ["state housing", "Karnataka", "low-income", "shelter", "Basava Vasati"],
+    "eligibility": "Residents of Karnataka from economically weaker sections without permanent housing.",
+    "documents": "Aadhaar, income certificate, domicile proof, bank details.",
+    "how_to_apply": "Apply through the Rajiv Gandhi Housing Corporation Limited (RGHCL) portal.",
+    "link": "https://ashraya.karnataka.gov.in"
+  },
+  
+  {
+    "name": "Gruha Lakshmi Scheme",
+    "keywords": ["housing", "women", "financial assistance", "Telangana", "Gruha Lakshmi"],
+    "eligibility": "Women heads of BPL families in Telangana without a permanent house.",
+    "documents": "Aadhaar, ration card, income certificate, bank account details.",
+    "how_to_apply": "Apply through the official Telangana housing portal or local municipal offices.",
+    "link": "https://www.telanganahousing.cgg.gov.in"
+  },
+  
+  {
+    "name": "National Food Security Act (NFSA)",
+    "keywords": ["food grains", "ration", "subsidy", "TPDS", "NFSA"],
+    "eligibility": "Up to 75% of rural and 50% of urban population, including Priority Households and Antyodaya Anna Yojana (AAY) families.",
+    "documents": "Ration card, Aadhaar, income certificate (if applicable).",
+    "how_to_apply": "Apply through the local Public Distribution System (PDS) office or state food department.",
+    "link": "https://nfsa.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+    "keywords": ["free food", "COVID relief", "ration", "PMGKAY", "welfare"],
+    "eligibility": "NFSA beneficiaries including AAY and Priority Households.",
+    "documents": "Ration card, Aadhaar.",
+    "how_to_apply": "No separate application needed; food grains distributed through PDS to eligible families.",
+    "link": "https://dfpd.gov.in/pm-garib-kalyan-anna-yojana.htm"
+  },
+  {
+    "name": "PM POSHAN (formerly Mid-Day Meal Scheme)",
+    "keywords": ["school meals", "nutrition", "children", "education", "PM POSHAN"],
+    "eligibility": "Children studying in government and government-aided schools from Class 1 to 8.",
+    "documents": "School enrollment records.",
+    "how_to_apply": "Automatically provided through schools; no separate application required.",
+    "link": "https://pmposhan.education.gov.in"
+  },
+  
+  {
+    "name": "ADIP Scheme (Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances)",
+    "keywords": ["assistive devices", "mobility aids", "PwD", "ADIP", "disability support"],
+    "eligibility": "Indian citizens with 40% or more disability and a monthly income below ₹30,000.",
+    "documents": "Disability certificate, income proof, Aadhaar card, passport-size photo.",
+    "how_to_apply": "Apply through empanelled NGOs or ALIMCO centers. Camps are also organized for distribution.",
+    "link": "https://depwd.gov.in/schemes/adip-scheme"
+  },
+  {
+    "name": "NIRAMAYA Health Insurance Scheme",
+    "keywords": ["health insurance", "PwD", "medical coverage", "NIRAMAYA", "National Trust"],
+    "eligibility": "Persons with Autism, Cerebral Palsy, Mental Retardation, or Multiple Disabilities registered under the National Trust Act.",
+    "documents": "Disability certificate, proof of registration with National Trust, ID proof.",
+    "how_to_apply": "Apply online through the National Trust portal or via registered organizations.",
+    "link": "https://thenationaltrust.gov.in/content/scheme/niramaya.php"
+  },
+  {
+    "name": "GHARAUNDA (Group Home for Adults)",
+    "keywords": ["residential care", "PwD", "GHARAUNDA", "vocational training", "autism", "cerebral palsy"],
+    "eligibility": "Adults (18+) with Autism, Cerebral Palsy, Mental Retardation, or Multiple Disabilities.",
+    "documents": "Disability certificate, age proof, ID proof, guardian details.",
+    "how_to_apply": "Apply through GHARAUNDA centers or online via the National Trust website.",
+    "link": "https://thenationaltrust.gov.in/content/scheme/gharaunda.php"
   }
+
+
+
+
+
+
 ]
