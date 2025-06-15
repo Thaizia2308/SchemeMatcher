@@ -1,0 +1,66 @@
+[
+  {
+    "name": "PM-Kisan Samman Nidhi",
+    "keywords": ["farmer", "kisan", "2 acre", "kisaaan"],
+    "eligibility": "Farmers with up to 2 hectares of land.",
+    "documents": "Aadhaar card, land ownership papers, bank details.",
+    "how_to_apply": "Apply through PM-Kisan portal or CSC center.",
+    "link": "https://pmkisan.gov.in/"
+  },
+  {
+    "name": "Widow Pension Scheme",
+    "keywords": ["widow", "vidhwa", "husband death"],
+    "eligibility": "Women who are widows and below the poverty line.",
+    "documents": "Death certificate of husband, Aadhaar, income proof.",
+    "how_to_apply": "Apply at local district office or online on state portal.",
+    "link": "https://nsp.gov.in/"
+  },
+  {
+    "name": "Ayushman Bharat - PM-JAY",
+    "keywords": ["hospital", "free treatment", "health card", "bpl"],
+    "eligibility": "Poor and vulnerable families as per SECC 2011 data.",
+    "documents": "Aadhaar card, ration card or eligibility ID.",
+    "how_to_apply": "Check eligibility and apply on the PM-JAY website or visit Ayushman Mitra.",
+    "link": "https://pmjay.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "keywords": ["home", "house", "pakka house", "housing scheme"],
+    "eligibility": "Urban or rural poor with no pakka house in family name.",
+    "documents": "Aadhaar, income certificate, residence proof.",
+    "how_to_apply": "Apply online via PMAY portal or through CSC centers.",
+    "link": "https://pmaymis.gov.in/"
+  },
+  {
+    "name": "Ujjwala Yojana",
+    "keywords": ["gas", "lpg", "women", "ujjwala"],
+    "eligibility": "Women from BPL families without LPG connection.",
+    "documents": "Aadhaar, ration card, bank account details.",
+    "how_to_apply": "Apply through LPG distributor or online.",
+    "link": "https://pmuy.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Jan Dhan Yojana",
+    "keywords": ["bank", "zero balance", "account", "jan dhan"],
+    "eligibility": "Any Indian citizen above 10 years of age.",
+    "documents": "Aadhaar, identity proof, address proof.",
+    "how_to_apply": "Visit nearest bank with documents to open account.",
+    "link": "https://pmjdy.gov.in/"
+  },
+  {
+    "name": "National Scholarship Portal",
+    "keywords": ["scholarship", "student", "fee", "school", "college"],
+    "eligibility": "Students from SC/ST/OBC/Minority/EWS backgrounds.",
+    "documents": "Income certificate, caste certificate, Aadhaar, education records.",
+    "how_to_apply": "Apply online through the NSP website.",
+    "link": "https://scholarships.gov.in/"
+  },
+  {
+    "name": "PM Kaushal Vikas Yojana (PMKVY)",
+    "keywords": ["skills", "training", "job", "youth", "skill india"],
+    "eligibility": "Youth (18–35) seeking skill-based employment.",
+    "documents": "Aadhaar, identity proof, education qualification.",
+    "how_to_apply": "Register on Skill India portal and join nearest center.",
+    "link": "https://www.pmkvyofficial.org/"
+  }
+]

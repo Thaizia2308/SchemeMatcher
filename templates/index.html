@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Scheme Matcher</title>
+  <script src="/static/js/main.js" defer></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f4f8;
+      padding: 20px;
+      margin: 0;
+    }
+
+    header {
+      background-color: #0b5394;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 0 0 10px 10px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+
+    .description {
+      margin-top: 10px;
+      font-size: 1em;
+      color: #e0e0e0;
+    }
+
+    main {
+      max-width: 700px;
+      margin: 30px auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    textarea, button {
+      font-size: 1em;
+      margin-top: 10px;
+    }
+
+    textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      padding: 10px 20px;
+      margin-right: 10px;
+      background-color: #0b5394;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #073763;
+    }
+
+    #results {
+      margin-top: 30px;
+    }
+
+    #results div {
+      background-color: #f9f9f9;
+      padding: 15px;
+      border-left: 5px solid #0b5394;
+      margin-bottom: 15px;
+      border-radius: 5px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #888;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎯 Scheme Matcher</h1>
+    <p class="description">
+      <i>Because, one missed scheme is a missed opportunity</i>
+    </p>
+  </header>
+
+  <main>
+    <!-- Hidden default language (English) -->
+    <input type="hidden" id="language" value="en" />
+
+    <textarea id="query" rows="4" placeholder="🎤 Speak or type your query here..."></textarea>
+
+    <button onclick="startVoiceInput()">🎤 Voice Input</button>
+    <button onclick="sendQuery()">🔍 Find Schemes</button>
+
+    <div id="results"></div>
+  </main>
+
+  <footer>
+    &copy; 2025 Scheme Matcher | Built to simplify access to welfare schemes
+  </footer>
+</body>
+</html>
