@@ -1,7 +1,7 @@
 [
   {
     "name": "PM-Kisan Samman Nidhi",
-    "keywords": ["farmer", "kisan", "2 acre", "kisaaan"],
+    "keywords": ["farmer", "kisan", "2 acre", "kisaaan","raitu"],
     "eligibility": "Farmers with up to 2 hectares of land.",
     "documents": "Aadhaar card, land ownership papers, bank details.",
     "how_to_apply": "Apply through PM-Kisan portal or CSC center.",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
-    "keywords": ["income support", "small farmers", "direct benefit", "financial aid", "PM-KISAN"],
+    "keywords": ["income support", "small farmers", "direct benefit", "financial aid", "PM-KISAN","low-income","kisan"],
     "eligibility": "All landholding farmer families with cultivable land, subject to certain exclusion criteria.",
     "documents": "Aadhaar card, land ownership documents, bank account details.",
     "how_to_apply": "Register online at the PM-KISAN portal or through local revenue officials or CSCs.",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Kisan Credit Card (KCC) Scheme",
-    "keywords": ["credit", "loan", "crop finance", "short-term loan", "KCC"],
+    "keywords": ["credit", "loan", "crop finance", "short-term loan", "KCC","im a farmer i need loan"],
     "eligibility": "All farmers including tenant farmers, sharecroppers, and self-help groups involved in agriculture and allied activities.",
     "documents": "Identity proof, land documents, bank account details, passport-size photo.",
     "how_to_apply": "Apply through banks or cooperative societies; forms also available online.",
@@ -34,7 +34,7 @@
 
   {
     "name": "Widow Pension Scheme",
-    "keywords": ["widow", "vidhwa", "husband death"],
+    "keywords": ["widow", "vidhwa", "husband death","pension","im a widow i need pension"],
     "eligibility": "Women who are widows and below the poverty line.",
     "documents": "Death certificate of husband, Aadhaar, income proof.",
     "how_to_apply": "Apply at local district office or online on state portal.",
@@ -50,7 +50,7 @@
   },
   {
     "name": "Pradhan Mantri Awas Yojana (PMAY)",
-    "keywords": ["home", "house", "pakka house", "housing scheme"],
+    "keywords": ["home", "house", "pakka house", "housing scheme","im a tenant i need house"],
     "eligibility": "Urban or rural poor with no pakka house in family name.",
     "documents": "Aadhaar, income certificate, residence proof.",
     "how_to_apply": "Apply online via PMAY portal or through CSC centers.",
@@ -58,7 +58,7 @@
   },
   {
     "name": "Ujjwala Yojana",
-    "keywords": ["gas", "lpg", "women", "ujjwala"],
+    "keywords": ["gas", "lpg", "women", "ujjwala","i dont have gas connection"],
     "eligibility": "Women from BPL families without LPG connection.",
     "documents": "Aadhaar, ration card, bank account details.",
     "how_to_apply": "Apply through LPG distributor or online.",
@@ -66,7 +66,7 @@
   },
   {
     "name": "Pradhan Mantri Jan Dhan Yojana",
-    "keywords": ["bank", "zero balance", "account", "jan dhan"],
+    "keywords": ["bank", "zero balance", "account", "jan dhan","financial aid"],
     "eligibility": "Any Indian citizen above 10 years of age.",
     "documents": "Aadhaar, identity proof, address proof.",
     "how_to_apply": "Visit nearest bank with documents to open account.",
@@ -74,7 +74,7 @@
   },
   {
     "name": "National Scholarship Portal",
-    "keywords": ["scholarship", "student", "fee", "school", "college","student from sc/st"],
+    "keywords": ["scholarship", "student", "fee", "school", "college","student from sc","im a student from Obc"],
     "eligibility": "Students from SC/ST/OBC/Minority/EWS backgrounds.",
     "documents": "Income certificate, caste certificate, Aadhaar, education records.",
     "how_to_apply": "Apply online through the NSP website.",
@@ -98,7 +98,7 @@
   },
   {
     "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
-    "keywords": ["merit", "scholarship", "economically weaker section", "school education", "class 9-12"],
+    "keywords": ["merit", "scholarship", "economically weaker section", "school education", "class 9-12","i am a student i need scholarship"],
     "eligibility": "Students with annual family income below ₹3.5 lakh and at least 55% marks in Class 8.",
     "documents": "Income certificate, Aadhaar, academic records, NMMSS exam certificate.",
     "how_to_apply": "Apply online through the National Scholarship Portal (NSP).",
@@ -132,7 +132,7 @@
   },
   {
     "name": "PM eVIDYA",
-    "keywords": ["education", "digital learning", "online classes", "school", "Diksha"],
+    "keywords": ["education", "digital learning", "online classes", "school", "Diksha","i want to learn online"],
     "eligibility": "Students and teachers across India seeking digital education resources.",
     "documents": "No specific documents required for access; internet-enabled device recommended.",
     "how_to_apply": "Access through the DIKSHA portal, Swayam platform, or PM eVIDYA TV channels.",
@@ -225,7 +225,7 @@
   
   {
     "name": "National Food Security Act (NFSA)",
-    "keywords": ["food grains", "ration", "subsidy", "TPDS", "NFSA"],
+    "keywords": ["food grains", "ration", "subsidy", "TPDS", "NFSA","free food","ration card"],
     "eligibility": "Up to 75% of rural and 50% of urban population, including Priority Households and Antyodaya Anna Yojana (AAY) families.",
     "documents": "Ration card, Aadhaar, income certificate (if applicable).",
     "how_to_apply": "Apply through the local Public Distribution System (PDS) office or state food department.",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
-    "keywords": ["free food", "COVID relief", "ration", "PMGKAY", "welfare"],
+    "keywords": ["free food", "COVID relief", "ration", "PMGKAY", "welfare","food"],
     "eligibility": "NFSA beneficiaries including AAY and Priority Households.",
     "documents": "Ration card, Aadhaar.",
     "how_to_apply": "No separate application needed; food grains distributed through PDS to eligible families.",
@@ -266,7 +266,7 @@
   },
   {
     "name": "GHARAUNDA (Group Home for Adults)",
-    "keywords": ["residential care", "PwD", "GHARAUNDA", "vocational training", "autism", "cerebral palsy"],
+    "keywords": ["residential care", "PwD", "GHARAUNDA", "vocational training", "autism", "cerebral palsy","im old i need shelter"],
     "eligibility": "Adults (18+) with Autism, Cerebral Palsy, Mental Retardation, or Multiple Disabilities.",
     "documents": "Disability certificate, age proof, ID proof, guardian details.",
     "how_to_apply": "Apply through GHARAUNDA centers or online via the National Trust website.",
